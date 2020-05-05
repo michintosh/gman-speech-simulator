@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/1.ogg-52b912d97ce0c6baaa6d8c0b9c49f1f1.oggstr"
+
+[deps]
+
+source_file="res://assets/adverbs/1.ogg"
+dest_files=[ "res://.import/1.ogg-52b912d97ce0c6baaa6d8c0b9c49f1f1.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

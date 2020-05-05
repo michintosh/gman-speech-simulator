@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/3.ogg-a43f155a1162dcd7e34435c4105734cf.oggstr"
+
+[deps]
+
+source_file="res://assets/pronoun/3.ogg"
+dest_files=[ "res://.import/3.ogg-a43f155a1162dcd7e34435c4105734cf.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

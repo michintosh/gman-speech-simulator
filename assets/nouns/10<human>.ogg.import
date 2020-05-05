@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/10<human>.ogg-8f28208374a34b003543556ac039040c.oggstr"
+
+[deps]
+
+source_file="res://assets/nouns/10<human>.ogg"
+dest_files=[ "res://.import/10<human>.ogg-8f28208374a34b003543556ac039040c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

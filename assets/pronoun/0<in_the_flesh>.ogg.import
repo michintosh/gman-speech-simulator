@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/0<in_the_flesh>.ogg-fd1f527ea470841a4681c065861b6fc4.oggstr"
+
+[deps]
+
+source_file="res://assets/pronoun/0<in_the_flesh>.ogg"
+dest_files=[ "res://.import/0<in_the_flesh>.ogg-fd1f527ea470841a4681c065861b6fc4.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

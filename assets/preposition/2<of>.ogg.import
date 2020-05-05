@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/2<of>.ogg-c63952f73ecee0b38a4ae22b8bb30962.oggstr"
+
+[deps]
+
+source_file="res://assets/preposition/2<of>.ogg"
+dest_files=[ "res://.import/2<of>.ogg-c63952f73ecee0b38a4ae22b8bb30962.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

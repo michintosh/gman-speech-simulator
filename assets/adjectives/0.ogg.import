@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/0.ogg-e079413ed9134cad21493104837ab169.oggstr"
+
+[deps]
+
+source_file="res://assets/adjectives/0.ogg"
+dest_files=[ "res://.import/0.ogg-e079413ed9134cad21493104837ab169.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
